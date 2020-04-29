@@ -1,1 +1,2 @@
-# Leetcode_learning
+# Coding is Simple
+ Leetcode_learning
